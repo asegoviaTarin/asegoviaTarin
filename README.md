@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p><em>Multimedia engineer <a href="https://www.uv.es/">University of Valencia</a>
-</br>Fullstack developer at<a href="https://allfunds.com/">Allfunds</a>
+</br>Fullstack developer at <a href="https://allfunds.com/">Allfunds</a>
 </em></p>
 
 
-[![Linkedin: albertosegovia](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-segovia-tarín-29a995101)](hhttps://www.linkedin.com/in/alberto-segovia-tarín-29a995101)
+[![Linkedin: albertosegovia](https://img.shields.io/badge/-albertoSegovia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-segovia-tarín-29a995101)](https://www.linkedin.com/in/alberto-segovia-tarín-29a995101)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -32,7 +32,6 @@ const Alberto Segovia = {
   ID: [VSCode],
   architecture: ["microservices",],
   challenge: "I'm doing #30DaysOfCode challenge focusing on Node and JS"
-  currently learning [Dart, Fluttern]
-
+  currentlyLearning: [Dart, Fluttern]
 }
 ```
