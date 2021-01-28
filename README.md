@@ -22,16 +22,15 @@ Here are some ideas to get you started:
 
 [![Linkedin: albertosegovia](https://img.shields.io/badge/-albertoSegovia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-segovia-tarín-29a995101)](https://www.linkedin.com/in/alberto-segovia-tarín-29a995101)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## A little more about me 🤓 ...  
 
 ```javascript
-const Alberto Segovia = {
+const Alberto = {
   code: [Javascript, Java, HTML, CSS, SQL, C++],
   tools: [Node, Angular, Docker, AWS, MongoDB],
   ID: [VSCode],
   architecture: ["microservices",],
-  challenge: "I'm doing #30DaysOfCode challenge focusing on Node and JS"
+  challenge: "I'm doing #30DaysOfCode challenge focusing on Node and JS",
   currentlyLearning: [Dart, Fluttern]
 }
 ```
