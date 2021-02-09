@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 const Alberto = {
   code: [Javascript, Java, HTML, CSS, SQL, C++],
   tools: [Node, Angular, Docker, AWS, MongoDB],
-  ID: [VSCode],
-  architecture: ["microservices",],
+  IDE: [VSCode],
+  architecture: ["microservices"],
   challenge: "I'm doing #30DaysOfCode challenge focusing on Node and JS",
-  currentlyLearning: [Dart, Fluttern]
+  currentlyLearning: [Dart, Flutter]
 }
 ```
