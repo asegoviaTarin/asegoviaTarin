@@ -29,8 +29,8 @@ const Alberto = {
   code: [Javascript, Java, HTML, CSS, SQL, C++],
   tools: [Node, Angular, Docker, AWS, MongoDB],
   IDE: [VSCode],
-  architecture: ["microservices"],
-  challenge: "I'm doing #30DaysOfCode challenge focusing on Node and JS",
-  currentlyLearning: [AWS, DevOps]
+  architecture: ['microservices'],
+  challenge: 'I'm developing games for ios and android devices',
+  currentlyLearning: [AWS, DevOps, Kubernetes]
 }
 ```
