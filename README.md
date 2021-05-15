@@ -31,6 +31,6 @@ const Alberto = {
   IDE: [VSCode],
   architecture: ["microservices"],
   challenge: "I'm doing #30DaysOfCode challenge focusing on Node and JS",
-  currentlyLearning: [Dart, Flutter]
+  currentlyLearning: [AWS, DevOps]
 }
 ```
